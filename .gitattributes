@@ -1,1 +1,4 @@
-*.md linguist-vendored
+# *.md linguist-vendored
+
+*.md linguist-language=Markdown
+*.md linguist-breakdown=false
